@@ -1,0 +1,14 @@
+apiVersion: networking.gke.io/v1
+kind: MultiClusterService
+metadata:
+  name: hello-server-mcs
+spec:
+  template:
+    spec:
+      selector:
+        app: hello-server
+      ports:
+      - name: web
+        protocol: TCP
+        port: 8080
+        targetPort: 8080
