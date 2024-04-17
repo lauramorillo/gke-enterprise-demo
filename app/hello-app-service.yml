@@ -11,8 +11,3 @@ spec:
   selector:
     app: hello-server
   type: ClusterIP
----
-kind: ServiceExport
-apiVersion: net.gke.io/v1
-metadata:
-  name: hello-server
