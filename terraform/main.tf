@@ -7,6 +7,8 @@ resource "google_project_service" "services" {
     "iam.googleapis.com",
     "anthos.googleapis.com",
     "anthosconfigmanagement.googleapis.com",
+    "multiclusteringress.googleapis.com",
+    "multiclusterservicediscovery.googleapis.com"
   ])
   service = each.value
   disable_on_destroy = false
