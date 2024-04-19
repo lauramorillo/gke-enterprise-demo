@@ -1,0 +1,135 @@
+laura_morillovelarde@cloudshell:~/gke-enterprise-demo/terraform (commit-conf-demo)$ gcloud services list --enabled
+NAME: analyticshub.googleapis.com
+TITLE: Analytics Hub API
+
+NAME: anthos.googleapis.com
+TITLE: Anthos API
+
+NAME: anthosconfigmanagement.googleapis.com
+TITLE: Anthos Config Management API
+
+NAME: anthospolicycontroller.googleapis.com
+TITLE: Anthos Policy Controller API
+
+NAME: artifactregistry.googleapis.com
+TITLE: Artifact Registry API
+
+NAME: autoscaling.googleapis.com
+TITLE: Cloud Autoscaling API
+
+NAME: bigquery.googleapis.com
+TITLE: BigQuery API
+
+NAME: bigqueryconnection.googleapis.com
+TITLE: BigQuery Connection API
+
+NAME: bigquerydatapolicy.googleapis.com
+TITLE: BigQuery Data Policy API
+
+NAME: bigquerymigration.googleapis.com
+TITLE: BigQuery Migration API
+
+NAME: bigqueryreservation.googleapis.com
+TITLE: BigQuery Reservation API
+
+NAME: bigquerystorage.googleapis.com
+TITLE: BigQuery Storage API
+
+NAME: cloudaicompanion.googleapis.com
+TITLE: Cloud AI Companion API
+
+NAME: cloudapis.googleapis.com
+TITLE: Google Cloud APIs
+
+NAME: cloudresourcemanager.googleapis.com
+TITLE: Cloud Resource Manager API
+
+NAME: cloudtrace.googleapis.com
+TITLE: Cloud Trace API
+
+NAME: compute.googleapis.com
+TITLE: Compute Engine API
+
+NAME: connectgateway.googleapis.com
+TITLE: Connect Gateway API
+
+NAME: container.googleapis.com
+TITLE: Kubernetes Engine API
+
+NAME: containeranalysis.googleapis.com
+TITLE: Container Analysis API
+
+NAME: containerfilesystem.googleapis.com
+TITLE: Container File System API
+
+NAME: containerregistry.googleapis.com
+TITLE: Container Registry API
+
+NAME: dataform.googleapis.com
+TITLE: Dataform API
+
+NAME: dataplex.googleapis.com
+TITLE: Cloud Dataplex API
+
+NAME: datastore.googleapis.com
+TITLE: Cloud Datastore API
+
+NAME: dns.googleapis.com
+TITLE: Cloud DNS API
+
+NAME: gkebackup.googleapis.com
+TITLE: Backup for GKE API
+
+NAME: gkeconnect.googleapis.com
+TITLE: GKE Connect API
+
+NAME: gkehub.googleapis.com
+TITLE: GKE Hub API
+
+NAME: iam.googleapis.com
+TITLE: Identity and Access Management (IAM) API
+
+NAME: iamcredentials.googleapis.com
+TITLE: IAM Service Account Credentials API
+
+NAME: logging.googleapis.com
+TITLE: Cloud Logging API
+
+NAME: monitoring.googleapis.com
+TITLE: Cloud Monitoring API
+
+NAME: multiclusteringress.googleapis.com
+TITLE: Multi Cluster Ingress API
+
+NAME: multiclustermetering.googleapis.com
+TITLE: Multi cluster metering API
+
+NAME: multiclusterservicediscovery.googleapis.com
+TITLE: Multi-Cluster Service Discovery API
+
+NAME: networkconnectivity.googleapis.com
+TITLE: Network Connectivity API
+
+NAME: oslogin.googleapis.com
+TITLE: Cloud OS Login API
+
+NAME: pubsub.googleapis.com
+TITLE: Cloud Pub/Sub API
+
+NAME: servicemanagement.googleapis.com
+TITLE: Service Management API
+
+NAME: serviceusage.googleapis.com
+TITLE: Service Usage API
+
+NAME: sql-component.googleapis.com
+TITLE: Cloud SQL
+
+NAME: storage-api.googleapis.com
+TITLE: Google Cloud Storage JSON API
+
+NAME: storage-component.googleapis.com
+TITLE: Cloud Storage
+
+NAME: storage.googleapis.com
+TITLE: Cloud Storage API
